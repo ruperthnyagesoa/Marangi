@@ -55,12 +55,12 @@ export default function Hero({ runTransition = false }: HeroProps) {
               Professionally Executed Service + Competitive Price
             </Typography>
           </div>
-          <Link href="tel:076996720" style={{ color: '#10069F' }}>
+          <Link href="tel:0224708620" style={{ color: '#10069F' }}>
             <Typography variant="h6" fontWeight="600">
               Call or WhatsApp
             </Typography>{' '}
             <Typography variant="h6" fontWeight="600">
-              Jamal: +254 76996720
+              Marangi: +(254) 797369965
             </Typography>{' '}
           </Link>
           <Grow timeout={300} in={runTransition} easing={theme.transitions.easing.easeIn}>
