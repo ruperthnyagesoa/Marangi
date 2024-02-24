@@ -14,7 +14,7 @@ export default function Layout({ children }: LayoutProps) {
   return (
     <>
       <Head>
-        <title>Quick Painters</title>
+        <title>Marangi</title>
       </Head>
       <ThemeProvider theme={theme}>
         <Navbar />
