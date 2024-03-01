@@ -6,7 +6,7 @@
 
 ## Features :fire:
 
-🖌️: <br>
+🖌️ <br>
 
 
 ## Packages Used :
