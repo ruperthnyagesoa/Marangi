@@ -6,18 +6,10 @@
 
 ## Features :fire:
 
-:pizza: <br>
-:pizza: <br>
-:pizza: <br>
-:pizza: <br>
-:pizza: <br>
+🖌️: <br>
 
 
 ## Packages Used :
-:orange_book: <br>
-:orange_book: <br>
-:orange_book: <br>
-:orange_book: <br>
 :orange_book: <br>
 
 
